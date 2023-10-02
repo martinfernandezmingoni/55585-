@@ -75,4 +75,3 @@ productManager.addProduct({
 
 console.log('Este es el producto segun ID dado:', productManager.getProductByID(8))
 
-console.log('probando que funcione todo')
